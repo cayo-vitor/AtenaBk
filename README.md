@@ -23,14 +23,18 @@ npm install
 Certifique-se de ter as seguintes ferramentas instaladas:
 
 Node.js (v14 ou superior)
+
 MongoDB (em execução local ou em um serviço de nuvem como Atlas)
+
 Postman (para testar os endpoints, opcional)
 
 ## 🚀 Como Executar o Projeto
 Configure o arquivo .env com as seguintes variáveis:
 
 PORT=5000
+
 MONGO_URI=mongodb://localhost:27017/gerenciador
+
 Inicie o servidor:
 
 ## 🤝 Contribuindo
@@ -52,8 +56,11 @@ Abra um Pull Request.
 
 **👥 Autores**
 -> ECLITON MATHEUS - 4MB
+
 -> CAYO VYTOR - 4MB
+
 -> EDUARDO ISAÍAS - 4MB
+
 -> JOÃO PEDRO GUSMÃO - 4MB
  
 
