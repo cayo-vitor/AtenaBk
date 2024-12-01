@@ -74,7 +74,7 @@ Abra um Pull Request.
 
 ECLITON MATHEUS - 4MB
 
-CAYO VYTOR - 4MB
+CAYO VITOR - 4MB
 
 EDUARDO ISAÍAS - 4MB
 
