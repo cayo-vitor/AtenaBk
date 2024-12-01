@@ -41,7 +41,7 @@ Estamos sempre abertos a contribuições! Você pode colaborar das seguintes for
 
 Clique no botão "Fork" no canto superior direito da página do GitHub.
 
-Clone o repositório do seu fork:
+**Clone o repositório do seu fork:**
 
 git clone https://github.com/SEU_USUARIO/SEU_FORK.git
 
@@ -49,7 +49,7 @@ git clone https://github.com/SEU_USUARIO/SEU_FORK.git
 
 git checkout -b minha-contribuicao
 
-Faça suas alterações e commits:
+**Faça suas alterações e commits:**
 
 Realize suas modificações no código.
 
@@ -58,13 +58,13 @@ Realize suas modificações no código.
 
 git add .
 
-Faça um commit com uma mensagem descritiva:
+**Faça um commit com uma mensagem descritiva:**
 
 
 git commit -m "Descrição da alteração"
 
 
-Envie suas alterações para o repositório do fork:
+**Envie suas alterações para o repositório do fork:**
 
 
 git push origin minha-contribuicao
@@ -73,7 +73,9 @@ git push origin minha-contribuicao
 **Abra um Pull Request:**
 
 Acesse o repositório original.
+
 Clique em "Compare & Pull Request".
+
 Preencha o formulário com detalhes sobre suas alterações e envie o Pull Request.
 
 
