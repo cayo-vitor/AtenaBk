@@ -53,6 +53,22 @@ git push origin feature/minha-funcionalidade
 
 Abra um Pull Request.
 
+🖼️ Imagens
+![postapitasks](https://github.com/user-attachments/assets/cfbaa75e-5685-4432-820b-530253be9a26)
+
+
+![putapitasks](https://github.com/user-attachments/assets/2826b8a1-5b8c-47ed-a1f2-d6c73a9992d6)
+
+
+![getapitasks](https://github.com/user-attachments/assets/261f9d1d-c63d-4089-8efa-1d96b2f2b82f)
+
+
+![image](https://github.com/user-attachments/assets/a22f266d-c917-4317-bd65-43b890984b67)
+
+
+![apitasks](https://github.com/user-attachments/assets/3192ac1f-bb1e-4efb-961f-c2def0daef35)
+
+
 
 **👥 Autores**
 
