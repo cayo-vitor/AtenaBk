@@ -9,6 +9,15 @@ Ela utiliza Node.js, Express e MongoDB, oferecendo endpoints organizados para at
 
 ❗ OBS: A pasta node_modules que aparece com o npm install, fica de fora da pasta task-api. 
 
+❗ Acomponhe o fluxograma do github: 
+[Flowchart Template.pdf](https://github.com/user-attachments/files/17970399/Flowchart.Template.pdf)
+
+❗ Comandos GITHUB
+  [ComandosGit.pdf](https://github.com/user-attachments/files/17970463/ComandosGit.pdf)
+
+
+
+
 Utilização do POSTMAN para aplicação dos métodos CRUD, com o uso de um localhost:5000/api/nome_do_modelo para rodar os usuários, tarefas e categorias. Ex: localhost:5000/api/users, localhost:5000/api/tasks, localhost:5000/api/categories.
 O POSTMAN tem os métodos: POST(CRIAR), GET(PEGAR/LER), PUT(ATUALIZAR) e DELETE(DELETAR). Tais funções são feitas manualmente.
 
@@ -30,7 +39,7 @@ Node.js (v14 ou superior)
 
 MongoDB (em execução local ou em um serviço de nuvem como Atlas)
 
-Postman (para testar os endpoints, opcional)
+Postman (para testar os endpoints)
 
 ## 🚀 Como Executar o Projeto
 Configure o arquivo .env com as seguintes variáveis:
