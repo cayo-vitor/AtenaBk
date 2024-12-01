@@ -3,7 +3,7 @@
 # 📝 Descrição
 O Gerenciador de Tarefas é uma API desenvolvida para gerenciar tarefas, permitindo criar, atualizar, listar e excluir tarefas. Com suporte a categorias, prioridades e status, esta API é ideal para gerenciar fluxos de trabalho.
 
-Ela utiliza Node.js, Express e MongoDB, oferecendo endpoints organizados para atender a diversas necessidades. A documentação detalhada pode ser encontrada aqui: [Pré-Requisitos (1).pdf](https://github.com/user-attachments/files/17969770/Pre-Requisitos.1.pdf)
+Ela utiliza Node.js, Express e MongoDB, oferecendo endpoints organizados para atender a diversas necessidades. A documentação detalhada, com os códigos, instalações e mais, pode ser encontrada aqui: [Pré-Requisitos (1).pdf](https://github.com/user-attachments/files/17969770/Pre-Requisitos.1.pdf)
 
 Utilização do POSTMAN para aplicação dos métodos CRUD, com o uso de um localhost:5000/api/nome_do_modelo para rodar os usuários, tarefas e categorias. Ex: localhost:5000/api/users, localhost:5000/api/tasks, localhost:5000/api/categories.
 O POSTMAN tem os métodos: POST(CRIAR), GET(PEGAR/LER), PUT(ATUALIZAR) e DELETE(DELETAR). Tais funções são feitas manualmente por meio desta.
@@ -35,7 +35,7 @@ PORT=5000
 
 MONGO_URI=mongodb://localhost:27017/gerenciador
 
-Inicie o servidor:
+Inicie o servidor: npm start
 
 ## 🤝 Contribuindo
 **Contribuições são sempre bem-vindas! Siga estas etapas:**
