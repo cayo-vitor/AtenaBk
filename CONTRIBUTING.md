@@ -81,6 +81,9 @@ Preencha o formulário com detalhes sobre suas alterações e envie o Pull Reque
 
 ## Boas Práticas
 Escreva códigos limpos e bem documentados.
+
 Respeite o padrão de formatação do projeto.
+
 Faça testes locais antes de abrir um Pull Request.
+
 Certifique-se de descrever claramente as alterações no seu Pull Request.
