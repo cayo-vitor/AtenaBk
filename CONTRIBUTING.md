@@ -69,6 +69,8 @@ git commit -m "Descrição da alteração"
 
 git push origin minha-contribuicao
 
+❗ VEJA MAIS: [ComandosGit.pdf](https://github.com/user-attachments/files/17970466/ComandosGit.pdf)
+
 
 **Abra um Pull Request:**
 
