@@ -55,13 +55,14 @@ Abra um Pull Request.
 
 
 **👥 Autores**
--> ECLITON MATHEUS - 4MB
 
--> CAYO VYTOR - 4MB
+ECLITON MATHEUS - 4MB
 
--> EDUARDO ISAÍAS - 4MB
+CAYO VYTOR - 4MB
 
--> JOÃO PEDRO GUSMÃO - 4MB
+EDUARDO ISAÍAS - 4MB
+
+JOÃO PEDRO GUSMÃO - 4MB
  
 
 
