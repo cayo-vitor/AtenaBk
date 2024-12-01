@@ -70,5 +70,4 @@ JOÃO PEDRO GUSMÃO - 4MB
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
 
 
-**Instalação dos Pré-Requisitos, Funcionamentos e Teste da API ->>**
-[Pré-Requisitos (1).pdf](https://github.com/user-attachments/files/17969652/Pre-Requisitos.1.pdf)
+
