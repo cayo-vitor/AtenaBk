@@ -17,5 +17,5 @@ Criação de uma APIRestFul para um controle de tarefas com aplicação de CRUD 
 
 npm install
 
-**Instalação dos Pré-Requisitos, Funcionamentos e Teste da API abaixo**
+**Instalação dos Pré-Requisitos, Funcionamentos e Teste da API ->>**
 [Pré-Requisitos (1).pdf](https://github.com/user-attachments/files/17969652/Pre-Requisitos.1.pdf)
