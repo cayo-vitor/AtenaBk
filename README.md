@@ -1,4 +1,4 @@
-# tasksApi
+# Gerenciador de Tarefas
 
 # 📝 Descrição
 O Gerenciador de Tarefas é uma API desenvolvida para gerenciar tarefas, permitindo criar, atualizar, listar e excluir tarefas. Com suporte a categorias, prioridades e status, esta API é ideal para gerenciar fluxos de trabalho.
