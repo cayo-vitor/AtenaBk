@@ -1,27 +1,17 @@
 const express = require('express');
-const Category = require('../models/Category');
+const categoryController = require('../controllers/categoryController');  // Importando o controller
 const router = express.Router();
 
-// Criar nova categoria
-router.post('/', async (req, res) => {
-    const { name, user } = req.body;
+// Rota para criar uma nova categoria
+router.post('/', categoryController.createCategory);
 
-    try {
-        const category = await Category.create({ name, user });
-        res.status(201).json(category);
-    } catch (error) {
-        res.status(400).json({ message: error.message });
-    }
-});
+// Rota para listar todas as categorias
+router.get('/', categoryController.getCategories);
 
-// Listar categorias
-router.get('/', async (req, res) => {
-    try {
-        const categories = await Category.find();
-        res.json(categories);
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
-});
+// Rota para atualizar uma categoria existente
+router.put('/:id', categoryController.updateCategory);
+
+// Rota para excluir uma categoria
+router.delete('/:id', categoryController.deleteCategory);
 
 module.exports = router;
